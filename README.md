@@ -6,7 +6,6 @@ A Retrieval-Augmented Generation (RAG) system that answers questions about a piz
 - Semantic search using vector embeddings
 - Local LLM integration with Ollama
 - Persistent vector database with Chroma
-- Interactive Q&A interface
 
 ## Setup
 1. Install dependencies:
