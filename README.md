@@ -1,6 +1,6 @@
 # RAG Agent for Q&A on Restaurant Reviews Dataset
 
-A Retrieval-Augmented Generation (RAG) system that answers questions about a pizza restaurant using customer reviews.
+A Retrieval-Augmented Generation (RAG) system that answers questions about a pizza restaurant using customer reviews. (used as basis for larger business-focuesed RAG system)
 
 ## Features
 - Semantic search using vector embeddings
